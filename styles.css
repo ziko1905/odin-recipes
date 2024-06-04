@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.link {
+    padding: 10px;
+    color: rgb(226, 55, 43);
+}
+.myDiv {
+    text-align: center;
+    padding: 10px;
+}
